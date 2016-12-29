@@ -45,3 +45,20 @@ Running precompiled
     $ ./solar
     
 ```
+
+Using
+---------
+
+* 
+
+
+Screenshots
+-----------
+
+![alt tag](https://github.com/joaomatosf/bobcosmos/raw/master/eart.png)
+
+![alt tag](https://github.com/joaomatosf/bobcosmos/raw/master/jup.png)
+
+![alt tag](https://github.com/joaomatosf/bobcosmos/raw/master/mars.png)
+
+![alt tag](https://github.com/joaomatosf/bobcosmos/raw/master/main.png)
