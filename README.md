@@ -49,7 +49,9 @@ Running precompiled
 Using
 ---------
 
-* 
+*  Use the following yellow keys to interact with the solar system:
+
+![alt tag](https://github.com/joaomatosf/bobcosmos/raw/master/interact_keys.png)
 
 
 Screenshots
